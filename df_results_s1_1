@@ -1,3 +1,0 @@
-,Features Filter,Score,Confusion Matrix,Importances
-1,"{'Features Filter_1': ['TicketType__A5', 'TicketType__SCA4']}",0.6161616161616161,"[[549   0]
- [342   0]]",[]
